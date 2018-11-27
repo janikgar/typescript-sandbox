@@ -1,0 +1,11 @@
+{
+  "name": "proj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "",
+  "license": "MIT"
+}
